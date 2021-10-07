@@ -1,4 +1,4 @@
--   id: add-msg-issue-prefix
+-   id: trailer-jira-id
     name: Add issue as commit message prefix
     description: Searches the branch name for something looking like a jira issue name and prepends the commit message with it
     entry: trailer-jira-id
